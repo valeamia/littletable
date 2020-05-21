@@ -1,2 +1,2 @@
-# littletable
+# index
 project one
